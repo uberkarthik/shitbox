@@ -11,6 +11,7 @@ const SearchBar = () => {
     <form className="seachbar" onSubmit={handleSearch}>
       <div className="searchbar__item">
         <SearchManufacturer
+          //Passed in props. Need to accept in search manufacturer by passing in
           manufacturer={manufacturer}
           setManufacturer={setManufacturer}
         />
