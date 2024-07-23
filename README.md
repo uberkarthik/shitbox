@@ -37,6 +37,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Google Docs/Sheets
 
-[Initial Meeting Plan/Notes](https://docs.google.com/document/d/1rZyT27HsUW8pS8JL52XcQf7wmDY9unfIyfe1OC-1Jn8/edit?usp=sharing)
+[Meeting Notes](https://docs.google.com/document/d/1rZyT27HsUW8pS8JL52XcQf7wmDY9unfIyfe1OC-1Jn8/edit?usp=sharing)
 
-[Forums Contacted Google Sheets](https://docs.google.com/spreadsheets/d/19LGNsOtcsGcP4ytpE9FJWmef5070q87l4Y87bwS6eu0/edit?usp=sharing)
+[Forums Sheet](https://docs.google.com/spreadsheets/d/19LGNsOtcsGcP4ytpE9FJWmef5070q87l4Y87bwS6eu0/edit?usp=sharing)
